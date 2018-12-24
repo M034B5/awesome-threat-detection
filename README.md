@@ -147,6 +147,12 @@
 - [Kolide's Blog](https://blog.kolide.com/)
 - [The osquery Extensions Skunkworks Project](https://github.com/trailofbits/presentations/tree/master/Osquery%20Extensions)
 
+#### Mac
+* [Attacking a Mac: Detecting MacOS Post-Exploitation](https://www.redcanary.com/blog/attacking-a-mac-threat-detection-392/)
+* [When Macs Come Under ATT&CK](https://objectivebythesea.com/talks/OBTS_v1_Cyrus.pdf)
+* [Hunting for Bad Apples — Part 1](https://posts.specterops.io/hunting-for-bad-apples-part-1-22ef2b44c0aa)
+* [Hunting for Bad Apples — Part 2](https://posts.specterops.io/hunting-for-bad-apples-part-2-6f2d01b1f7d3)
+
 #### Windows
 
 - [Threat Hunting via Windows Event Logs](https://www.sans.org/summit-archives/file/summit-archive-1524493093.pdf)
@@ -165,6 +171,14 @@
 - Advanced Incident Detection and Threat Hunting using Sysmon (and Splunk) ([botconf 2016 Slides](https://www.botconf.eu/wp-content/uploads/2016/11/PR12-Sysmon-UELTSCHI.pdf), [FIRST 2017 Slides](https://www.first.org/resources/papers/conf2017/Advanced-Incident-Detection-and-Threat-Hunting-using-Sysmon-and-Splunk.pdf))
 - [The Sysmon and Threat Hunting Mimikatz wiki for the blue team](https://www.peerlyst.com/posts/the-sysmon-and-threat-hunting-mimikatz-wiki-for-the-blue-team-guurhart)
 - [Splunkmon — Taking Sysmon to the Next Level](https://www.crypsisgroup.com/wp-content/uploads/2017/07/CG_WhitePaper_Splunkmon_1216-1.pdf)
+* [How to Go from Responding to Hunting with Sysinternals Sysmon](https://onedrive.live.com/view.aspx?resid=D026B4699190F1E6!2843&ithint=file%2cpptx&app=PowerPoint&authkey=!AMvCRTKB_V1J5ow)
+* [Advanced Incident Detection and Threat Hunting using Sysmon (and Splunk)](https://github.com/c-APT-ure/my-public-stuff)
+
+##### .Net
+* [Hunting For In-Memory .NET Attacks](https://www.endgame.com/blog/technical-blog/hunting-memory-net-attacks)
+* [Detecting Malicious Use of .NET - Part 1](https://countercept.com/blog/detecting-malicious-use-of-net-part-1/)
+* [Detecting Malicious Use of .NET – Part 2](https://www.countercept.com/blog/detecting-malicious-use-of-net-part-2/)
+* [Implications of Loading .NET Assemblies](https://threatvector.cylance.com/en_us/home/implications-of-loading-net-assemblies.html)
 
 ##### PowerShell
 
