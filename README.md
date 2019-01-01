@@ -174,7 +174,7 @@
 * [How to Go from Responding to Hunting with Sysinternals Sysmon](https://onedrive.live.com/view.aspx?resid=D026B4699190F1E6!2843&ithint=file%2cpptx&app=PowerPoint&authkey=!AMvCRTKB_V1J5ow)
 * [Advanced Incident Detection and Threat Hunting using Sysmon (and Splunk)](https://github.com/c-APT-ure/my-public-stuff)
 
-##### .Net
+##### .NET
 * [Hunting For In-Memory .NET Attacks](https://www.endgame.com/blog/technical-blog/hunting-memory-net-attacks)
 * [Detecting Malicious Use of .NET - Part 1](https://countercept.com/blog/detecting-malicious-use-of-net-part-1/)
 * [Detecting Malicious Use of .NET – Part 2](https://www.countercept.com/blog/detecting-malicious-use-of-net-part-2/)
@@ -186,6 +186,7 @@
 - [Hunting the Known Unknowns (With PowerShell)](https://conf.splunk.com/files/2016/slides/hunting-the-known-unknowns-the-powershell-edition.pdf)
 - [HellsBells, Let's Hunt PowerShells!](https://www.splunk.com/blog/2017/07/06/hellsbells-lets-hunt-powershells.html)
 - [Hunting for PowerShell Using Heatmaps](https://medium.com/@jshlbrd/hunting-for-powershell-using-heatmaps-69b70151fa5d)
+- [Powershell Download Cradles](https://mgreen27.github.io/posts/2018/04/02/DownloadCradle.html)
 
 #### Research Papers
 
